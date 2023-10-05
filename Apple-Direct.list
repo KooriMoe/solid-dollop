@@ -28,7 +28,7 @@ DOMAIN-SUFFIX,push.apple.com
 
 # OS Updates
 DOMAIN,appldnld.apple.com
-DOMIAN,configuration.apple.com
+DOMAIN,configuration.apple.com
 DOMAIN,gdmf.apple.com
 DOMAIN,gg.apple.com
 DOMAIN,gs.apple.com
