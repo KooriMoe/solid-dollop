@@ -1,7 +1,9 @@
 # Apple-Reject.list
 # THIS IS A RULESET
+
 DOMAIN,safebrowsing.urlsec.qq.com
-# iCloud China
+
+# iCloud GCBD
 DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,icloud-content.com.cn
 DOMAIN-SUFFIX,apple-icloud.cn
@@ -10,3 +12,4 @@ DOMAIN-SUFFIX,icloud-apple.cn
 DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,icloud.net.cn
 DOMAIN-SUFFIX,icloudapple.cn
+DOMAIN-SUFFIX,apzones.com
