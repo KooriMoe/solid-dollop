@@ -1,0 +1,77 @@
+# Apple-Direct.list
+# THIS IS A RULESET
+# Ref: https://support.apple.com/zh-cn/HT210060
+
+DOMAIN-SUFFIX,apple.com.cn
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,apps.apple.com
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,apple-mapkit.com
+DOMAIN-SUFFIX,ls.apple.com
+DOMAIN,ocsp.digicert.cn
+
+# AKADNS
+DOMAIN-SUFFIX,apple.com.akadns.net
+DOMAIN-SUFFIX,apple-support.akadns.net
+DOMAIN-SUFFIX,cdn-apple.com.akadns.net
+DOMAIN-SUFFIX,origin-apple.com.akadns.net
+
+# Setup
+DOMAIN,albert.apple.com
+DOMAIN,captive.apple.com
+DOMAIN,time-ios.apple.com
+DOMAIN,time.apple.com
+DOMAIN,time-macos.apple.com
+
+# OS Updates
+DOMAIN,appldnld.apple.com
+DOMIAN,configuration.apple.com
+DOMAIN,gdmf.apple.com
+DOMAIN,gg.apple.com
+DOMAIN,gs.apple.com
+DOMAIN,ig.apple.com
+DOMAIN,mesu.apple.com
+DOMAIN,ns.itunes.apple.com
+DOMAIN,oscdn.apple.com
+DOMAIN,osrecovery.apple.com
+DOMAIN,skl.apple.com
+DOMAIN,swcdn.apple.com
+DOMAIN,swdist.apple.com
+DOMAIN,swdownload.apple.com
+DOMAIN,swscan.apple.com
+DOMAIN,xp.apple.com
+
+# Siri
+DOMAIN,guzzoni.apple.com
+
+# Beta OS Updates
+DOMAIN,bpapi.apple.com
+
+# Apple Diagnotics
+DOMAIN,diagassets.apple.com
+
+# App Store
+DOMAIN,itunes.com
+DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,apps.apple.com
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN,itunes.apple.com
+DOMAIN,ppq.apple.com
+
+# Associated Domains
+DOMAIN,app-site-association.cdn-apple.com
+DOMAIN,app-site-association.networking.apple
+
+# Content Caching
+DOMAIN,lcdn-registration.apple.com
+DOMAIN,suconfig.apple.com
+DOMAIN,xp-cdn.apple.com
+DOMAIN,lcdn-locator.apple.com
+DOMAIN,serverstatus.apple.com
+
+# Additional Contents
+DOMAIN,audiocontentdownload.apple.com
+DOMAIN,download.developer.apple.com
+DOMAIN,playgrounds-assets-cdn.apple.com
+DOMAIN,playgrounds-cdn.apple.com
+DOMAIN,sylvan.apple.com

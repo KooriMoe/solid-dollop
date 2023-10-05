@@ -1,0 +1,27 @@
+# Apple-Proxy.list
+# THIS IS A RULESET
+# Ref: https://support.apple.com/zh-cn/HT210060
+
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,apple.co
+
+# App Functions
+DOMAIN,api.apple-cloudkit.com
+DOMAIN-SUFFIX,appattest.apple.com
+
+# Beta OS Updates (Feedback Assistant)
+DOMAIN,cssubmissions.apple.com
+DOMAIN,fba.apple.com
+
+# Siri and Searching
+DOMAIN-SUFFIX,smoot.apple.com
+
+# iCloud Private Relay
+DOMAIN,mask.icloud.com
+DOMAIN,mask-h2.icloud.com
+DOMAIN,mask-api.icloud.com
+
+# Apple DNS
+DOMAIN,doh.dns.apple.com
+DOMAIN-SUFFIX,apple-dns.cn
+DOMAIN-SUFFIX,apple-dns.net

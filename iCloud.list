@@ -1,0 +1,12 @@
+# iCloud.list
+# THIS IS A RULESET
+# Ref: https://support.apple.com/zh-cn/HT210060
+
+DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,apple-livephotoskit.com
+DOMAIN-SUFFIX,gc.apple.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud.apple.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,iwork.apple.com
+DOMAIN-SUFFIX,cdn-apple.com
