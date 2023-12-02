@@ -74,6 +74,10 @@ DOMAIN,xp-cdn.apple.com
 DOMAIN,lcdn-locator.apple.com
 DOMAIN,serverstatus.apple.com
 
+# Apple Pay
+DOMAIN,cn-smp-paymentservices.apple.com
+DOMAIN,fpservices-prod1.apple.com
+
 # Additional Contents
 DOMAIN,audiocontentdownload.apple.com
 DOMAIN,download.developer.apple.com
