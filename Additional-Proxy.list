@@ -1,0 +1,5 @@
+# Additional-Proxy.list
+# THIS IS A RULESET
+# Repo: https://github.com/KooriMoe/solid-dollop
+
+DOMAIN-SUFFIX linkedin.com
