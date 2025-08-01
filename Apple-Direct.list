@@ -2,6 +2,7 @@
 # THIS IS A RULESET
 # Ref: https://support.apple.com/zh-cn/HT210060
 
+IP-CIDR,17.0.0.0/8
 DOMAIN-SUFFIX,apple.com.cn
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-SUFFIX,apps.apple.com
