@@ -25,3 +25,8 @@ DOMAIN,mask-api.icloud.com
 DOMAIN,doh.dns.apple.com
 DOMAIN-SUFFIX,apple-dns.cn
 DOMAIN-SUFFIX,apple-dns.net
+
+# Private Cloud Compute
+DOMAIN,apple-relay.cloudflare.com
+DOMAIN,apple-relay.fastly-edge.com
+DOMAIN,cp4.cloudflare.com
